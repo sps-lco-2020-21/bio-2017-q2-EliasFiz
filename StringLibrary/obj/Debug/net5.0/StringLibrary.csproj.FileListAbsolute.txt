@@ -1,0 +1,12 @@
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/bin/Debug/net5.0/StringLibrary.deps.json
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/bin/Debug/net5.0/StringLibrary.dll
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/bin/Debug/net5.0/ref/StringLibrary.dll
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/bin/Debug/net5.0/StringLibrary.pdb
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/obj/Debug/net5.0/StringLibrary.csprojAssemblyReference.cache
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/obj/Debug/net5.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/obj/Debug/net5.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/obj/Debug/net5.0/StringLibrary.AssemblyInfo.cs
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/obj/Debug/net5.0/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/obj/Debug/net5.0/StringLibrary.dll
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/obj/Debug/net5.0/ref/StringLibrary.dll
+/Users/eliasfizesan/Developer/CSharp/bio-2017-q2-EliasFiz/StringLibrary/obj/Debug/net5.0/StringLibrary.pdb
